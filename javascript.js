@@ -1,5 +1,6 @@
 // Filtrado simple por turno para la tabla TSU
 document.addEventListener('DOMContentLoaded', function(){
+  console.log('hola me falto este mensaje');
   const btnMat = document.getElementById('btn-mat');
   const btnVes = document.getElementById('btn-ves');
   const btnAll = document.getElementById('btn-all');
